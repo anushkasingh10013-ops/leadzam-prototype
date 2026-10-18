@@ -91,3 +91,21 @@ This is a frontend prototype for demonstrating a proposed signup experience. It 
 Anushka Singh
 
 GitHub: [anushkasingh10013-ops](https://github.com/anushkasingh10013-ops)
+
+## AI Usage Notes
+
+### 1. AI Tools Used
+I used ChatGPT to support my UI/UX audit, explore design improvements, assist with React and TypeScript implementation, troubleshoot development issues, and prepare project documentation.
+
+### 2. How AI Helped
+AI helped me organize my audit findings into three improvement areas: clearer onboarding guidance for new users, an AI-powered help assistant, and a simpler signup experience with an optional company name field.
+
+It also assisted me in developing the React signup prototype, including form validation, error and success states, responsive styling, and documentation. I reviewed the suggestions and adapted them to fit the scope of my assignment.
+
+### 3. One AI Suggestion I Improved
+AI helped me explore ways to simplify the signup form. I focused the redesign on making the company name optional while keeping full name and work email required. I chose this approach because students, individual users, and people exploring a trial may not have company information available. This keeps the form focused on the essential information for the proposed experience.
+
+### 4. What I Personally Verified
+I personally explored the LeadZam signup page and dashboard and used my observations to identify improvement opportunities. I tested the prototype in the browser to verify required-field validation, invalid email handling, successful form submission, and the mobile layout.
+
+I also checked that the project files were uploaded to GitHub. I treated AI-generated suggestions as assistance rather than verified facts and distinguished proposed improvements from observed issues. The prototype is a frontend demonstration and does not create real accounts or connect to a production backend.
